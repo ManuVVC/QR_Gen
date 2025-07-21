@@ -125,7 +125,7 @@ def main():
 
     try:
         # Leer CSV con cabecera y separador ;
-        df = pd.read_csv(csv_file, sep=';', usecols=[config["url_column"], config["codigo_column"]])
+        df = pd.read_csv(csv_file, sep=config["csv_separator"], usecols=[config["url_column"], config["codigo_column"]])
 
         for index, row in df.iterrows():
             url = str(row[config["url_column"]]).strip()
