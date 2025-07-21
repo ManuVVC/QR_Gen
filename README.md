@@ -32,11 +32,12 @@ Puedes configurar fácilmente el comportamiento de la aplicación creando un arc
 }
 ```
 Parámetros disponibles:
-Parámetro	Descripción
-output_folder	Carpeta donde se guardarán los PNG generados. Puede ser ruta absoluta o relativa.
-csv_separator	Separador del CSV. Por defecto ;.
-url_column	Nombre de la columna del CSV que contiene las URLs.
-codigo_column	Nombre de la columna del CSV con los códigos que se usarán en los nombres de
+| Parámetro | Descripción |
+|--------------|--------------------------------------------------------------------------------|
+|output_folder|	Carpeta donde se guardarán los PNG generados. Puede ser ruta absoluta o relativa.|
+|csv_separator|	Separador del CSV. Por defecto ;.|
+|url_column|	Nombre de la columna del CSV que contiene las URLs.|
+|codigo_column|	Nombre de la columna del CSV con los códigos que se usarán en los nombres de imagen.|
 
 ---
 ## 📄 Formato del archivo CSV
@@ -48,6 +49,7 @@ Debe contener al menos estas dos columnas:
 url;codigo
 https://example.com/usuario1;usuario1
 https://midominio.com/123456;123456
+```
 
 ---
 ## ▶️ Uso
