@@ -80,17 +80,19 @@ registro.log: log del proceso, advertencias y errores.
 ---
 ## 🧱 Estructura recomendada
 /mi_qr_app/
-├── generar_qr.py
-├── generar_qr.exe  ← si se compila
-├── qr_generados/   ← salida automática
-├── README.md
+: ├── generar_qr.py
+: ├── generar_qr.exe  ← si se compila
+: ├── qr_generados/   ← salida automática
+: ├── README.md
 
 ---
 ## 🛠 Compilar como .EXE (opcional)
 Puedes convertir este programa en un ejecutable para Windows usando PyInstaller:
-
+```
 pip install pyinstaller
+
 pyinstaller --onefile generar_qr.py
+```
 El archivo generado estará en la carpeta dist/.
 
 ---
