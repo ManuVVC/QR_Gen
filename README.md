@@ -29,7 +29,7 @@ Puedes configurar fácilmente el comportamiento de la aplicación creando un arc
   "csv_separator": ";",
   "url_column": "url",
   "codigo_column": "codigo"
-}´´´
+}```
 
 Parámetros disponibles:
 Parámetro	Descripción
