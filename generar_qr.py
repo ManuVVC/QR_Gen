@@ -1,11 +1,13 @@
 import pandas as pd
 import qrcode
-from PIL import Image, ImageDraw, ImageFont, ImageOps
+import json
 import os
 import sys
 import logging
+
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 
 def configurar_logger(output_folder):
@@ -20,6 +22,31 @@ def configurar_logger(output_folder):
     console.setLevel(logging.INFO)
     console.setFormatter(logging.Formatter('%(message)s'))
     logging.getLogger().addHandler(console)
+
+import json
+
+def cargar_config(base_path):
+    config_path = os.path.join(base_path, 'config.json')
+    try:
+        with open(config_path, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+            return {
+                "output_folder": config.get("output_folder", "qr_generados"),
+                "csv_separator": config.get("csv_separator", ";"),
+                "url_column": config.get("url_column", "url"),
+                "codigo_column": config.get("codigo_column", "codigo")
+            }
+    except FileNotFoundError:
+        print("❌ No se encontró el archivo config.json. Se usarán valores por defecto.")
+        return {
+            "output_folder": "qr_generados",
+            "csv_separator": ";",
+            "url_column": "url",
+            "codigo_column": "codigo"
+        }
+    except Exception as e:
+        print(f"❌ Error al leer config.json: {e}")
+        raise
 
 def generar_qr_con_texto(url, codigo, output_path):
     from PIL import Image, ImageDraw, ImageFont
@@ -73,7 +100,11 @@ def main():
 
     # Ruta base para guardar resultados
     base_path = os.path.dirname(sys.executable if getattr(sys, 'frozen', False) else __file__)
-    output_folder = os.path.join(base_path, 'qr_generados')
+
+    config = cargar_config(base_path)
+
+    output_folder = os.path.join(base_path, config["output_folder"]) \
+        if not os.path.isabs(config["output_folder"]) else config["output_folder"]
     os.makedirs(output_folder, exist_ok=True)
 
     configurar_logger(output_folder)
@@ -94,11 +125,11 @@ def main():
 
     try:
         # Leer CSV con cabecera y separador ;
-        df = pd.read_csv(csv_file, sep=';', usecols=['PRE_URL', 'QR'])
+        df = pd.read_csv(csv_file, sep=';', usecols=[config["url_column"], config["codigo_column"]])
 
         for index, row in df.iterrows():
-            url = str(row['PRE_URL']).strip()
-            codigo = str(row['QR']).strip()
+            url = str(row[config["url_column"]]).strip()
+            codigo = str(row[config["codigo_column"]]).strip()
 
             if not url or not codigo:
                 logging.warning(f"Línea {index + 1} incompleta. Se omite.")

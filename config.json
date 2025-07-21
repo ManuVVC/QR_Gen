@@ -1,0 +1,6 @@
+{
+  "output_folder": "qr_generados",
+  "csv_separator": ";",
+  "url_column": "url",
+  "codigo_column": "codigo"
+}
