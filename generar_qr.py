@@ -98,47 +98,56 @@ def main():
     from tkinter import Tk
     from tkinter.filedialog import askopenfilename
 
-    # Ruta base para guardar resultados
     base_path = os.path.dirname(sys.executable if getattr(sys, 'frozen', False) else __file__)
-
     config = cargar_config(base_path)
 
-    output_folder = os.path.join(base_path, config["output_folder"]) \
+    output_base = os.path.join(base_path, config["output_folder"]) \
         if not os.path.isabs(config["output_folder"]) else config["output_folder"]
-    os.makedirs(output_folder, exist_ok=True)
+    os.makedirs(output_base, exist_ok=True)
 
-    configurar_logger(output_folder)
+    configurar_logger(output_base)
     logging.info("🟢 Inicio del programa")
 
-    # Abrir selector de archivos para CSV
+    # Selector de archivo Excel
     Tk().withdraw()
-    csv_file = askopenfilename(
-        title="Selecciona el archivo CSV",
-        filetypes=[("Archivos CSV", "*.csv"), ("Todos los archivos", "*.*")]
+    excel_file = askopenfilename(
+        title="Selecciona el archivo Excel",
+        filetypes=[("Archivos Excel", "*.xlsx"), ("Todos los archivos", "*.*")]
     )
 
-    if not csv_file:
-        logging.error("❌ No se seleccionó ningún archivo CSV. El programa finaliza.")
+    if not excel_file:
+        logging.error("❌ No se seleccionó ningún archivo. El programa finaliza.")
         return
 
-    logging.info(f"📄 Archivo seleccionado: {csv_file}")
+    logging.info(f"📄 Archivo seleccionado: {excel_file}")
 
     try:
-        # Leer CSV con cabecera y separador ;
-        df = pd.read_csv(csv_file, sep=config["csv_separator"], usecols=[config["url_column"], config["codigo_column"]])
+        # Cargar Excel
+        df = pd.read_excel(
+            excel_file,
+            usecols=[
+                config["codigo_qr"],
+                config["cod_oficina"],
+                config["nombre_oficina"]
+            ]
+        )
 
-        for index, row in df.iterrows():
-            url = str(row[config["url_column"]]).strip()
-            codigo = str(row[config["codigo_column"]]).strip()
+        # Generar columna url
+        df["url"] = config["url_base"] + df[config["codigo_qr"]].astype(str)
 
-            if not url or not codigo:
-                logging.warning(f"Línea {index + 1} incompleta. Se omite.")
-                continue
+        for _, row in df.iterrows():
+            codigo = str(row[config["codigo_qr"]])
+            oficina = str(row[config["cod_oficina"]]) + " - " + str(row[config["nombre_oficina"]])
+            url = row["url"]
+
+            # Carpeta por oficina
+            oficina_folder = os.path.join(output_base, oficina)
+            os.makedirs(oficina_folder, exist_ok=True)
 
             try:
-                output_path = os.path.join(output_folder, f"{codigo}.png")
+                output_path = os.path.join(oficina_folder, f"{codigo}.png")
                 generar_qr_con_texto(url, codigo, output_path)
-                logging.info(f"✅ QR generado: {codigo}.png")
+                logging.info(f"✅ QR generado: {output_path}")
             except Exception as qr_error:
                 logging.error(f"❌ Error al generar QR para '{codigo}': {qr_error}")
 

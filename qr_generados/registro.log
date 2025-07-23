@@ -1,0 +1,54 @@
+2025-07-23 12:27:59,744 - INFO - 🟢 Inicio del programa
+2025-07-23 12:28:24,355 - ERROR - ❌ No se seleccionó ningún archivo CSV. El programa finaliza.
+2025-07-23 13:53:11,424 - INFO - 🟢 Inicio del programa
+2025-07-23 13:53:19,207 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250609_BBDD_QR_CEDIPSA_2025 (002).xlsx
+2025-07-23 13:53:19,208 - ERROR - ❌ Error inesperado: 'oficina_column'
+Traceback (most recent call last):
+  File "G:\Proyectos\QR_Gen\generar_qr.py", line 130, in main
+    config["oficina_column"]
+    ~~~~~~^^^^^^^^^^^^^^^^^^
+KeyError: 'oficina_column'
+2025-07-23 13:55:46,696 - INFO - 🟢 Inicio del programa
+2025-07-23 13:55:50,247 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250609_BBDD_QR_CEDIPSA_2025 (002).xlsx
+2025-07-23 13:55:50,251 - ERROR - ❌ Error inesperado: 'codigo_qr'
+Traceback (most recent call last):
+  File "G:\Proyectos\QR_Gen\generar_qr.py", line 129, in main
+    config["codigo_qr"],
+    ~~~~~~^^^^^^^^^^^^^
+KeyError: 'codigo_qr'
+2025-07-23 13:56:48,891 - INFO - 🟢 Inicio del programa
+2025-07-23 13:56:53,934 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250609_BBDD_QR_CEDIPSA_2025 (002).xlsx
+2025-07-23 13:56:53,934 - ERROR - ❌ Error inesperado: 'codigo_qr'
+Traceback (most recent call last):
+  File "G:\Proyectos\QR_Gen\generar_qr.py", line 129, in main
+    config["codigo_qr"],
+    ~~~~~~^^^^^^^^^^^^^
+KeyError: 'codigo_qr'
+2025-07-23 13:57:32,737 - INFO - 🟢 Inicio del programa
+2025-07-23 13:57:36,122 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-23 13:57:36,123 - ERROR - ❌ Error inesperado: 'codigo_qr'
+Traceback (most recent call last):
+  File "G:\Proyectos\QR_Gen\generar_qr.py", line 129, in main
+    config["codigo_qr"],
+    ~~~~~~^^^^^^^^^^^^^
+KeyError: 'codigo_qr'
+2025-07-23 13:58:20,045 - INFO - 🟢 Inicio del programa
+2025-07-23 13:58:23,669 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-23 13:58:23,669 - ERROR - ❌ Error inesperado: 'codigo_qr'
+Traceback (most recent call last):
+  File "G:\Proyectos\QR_Gen\generar_qr.py", line 129, in main
+    config["codigo_qr"],
+    ~~~~~~^^^^^^^^^^^^^
+KeyError: 'codigo_qr'
+2025-07-23 13:59:09,538 - INFO - 🟢 Inicio del programa
+2025-07-23 13:59:12,468 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-23 13:59:12,468 - ERROR - ❌ Error inesperado: 'codigo_qr'
+Traceback (most recent call last):
+  File "G:\Proyectos\QR_Gen\generar_qr.py", line 129, in main
+    config["codigo_qr"],
+    ~~~~~~^^^^^^^^^^^^^
+KeyError: 'codigo_qr'
+2025-07-23 13:59:23,155 - INFO - 🟢 Inicio del programa
+2025-07-23 13:59:26,410 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-23 14:00:23,843 - INFO - 🟢 Inicio del programa
+2025-07-23 14:00:42,232 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
