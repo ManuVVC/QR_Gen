@@ -1,6 +1,6 @@
 # Generador de Códigos QR desde CSV
 
-Esta aplicación permite generar imágenes de códigos QR a partir de un archivo CSV con URLs y códigos personalizados. Cada código QR se guarda como una imagen PNG con el texto del código centrado debajo del QR y subrayado. 
+Esta aplicación permite generar imágenes con códigos QR a partir de un archivo Excel con URLs y códigos personalizados. Cada código QR se guarda como una imagen PNG con el texto del código centrado debajo del QR y subrayado, y se almacenan agrupados segun ciertas columnas de la excel. 
 
 Ideal para generar identificadores, etiquetas, tarjetas o enlaces visuales fácilmente imprimibles.
 
@@ -8,10 +8,10 @@ Ideal para generar identificadores, etiquetas, tarjetas o enlaces visuales fáci
 
 ## 🧩 Funcionalidades
 
-- Lectura de archivo CSV con cabecera y separado por punto y coma (`;`).
-- Selección del archivo CSV mediante ventana de explorador.
+- Lectura de archivo Excel con cabecera.
+- Selección del archivo mediante ventana de explorador.
 - Generación de QR sin márgenes blancos excesivos.
-- Imagen final en tamaño fijo: **220 x 255 px**.
+- Imagen final en tamaño variable segun configuracion.
 - El código se muestra centrado debajo del QR, con línea de subrayado.
 - Creación de un archivo `registro.log` con los eventos del proceso.
 - Soporte completo para ejecutarse como `.py` o como ejecutable `.exe`.
@@ -25,19 +25,21 @@ Puedes configurar fácilmente el comportamiento de la aplicación creando un arc
 
 ```json
 {
-  "output_folder": "qr_generados",
-  "csv_separator": ";",
-  "url_column": "url",
-  "codigo_column": "codigo"
+  "output_folder": "",
+  "col_codigo": "",
+  "col_nombre": "",
+  "url_base": "",
+  "col_qr": ""
 }
 ```
 Parámetros disponibles:
 | Parámetro | Descripción |
 |--------------|--------------------------------------------------------------------------------|
 |output_folder|	Carpeta donde se guardarán los PNG generados. Puede ser ruta absoluta o relativa.|
-|csv_separator|	Separador del CSV. Por defecto ;.|
-|url_column|	Nombre de la columna del CSV que contiene las URLs.|
-|codigo_column|	Nombre de la columna del CSV con los códigos que se usarán en los nombres de imagen.|
+|col_codigo|	nombre de la columna con un Codigo identificativo, usadopara carpeta final|
+|col_nombre|	Nombre de la columna con un nombre identificativo, usado para carpeta final|
+|url_base| Si el principio de la url es comun a todos los qr's a generar se indica aqui.|
+|col_qr|	Nombre de la columna on los códigos que se usarán en el Qr, en la imagen y como nombre de fichero.|
 
 ---
 ## 📄 Formato del archivo CSV
