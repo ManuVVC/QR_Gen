@@ -3,5 +3,5 @@
   "cod_oficina": "Nº concesión (Código de 5 dígitos. Ejemplo: 07414)",
   "nombre_oficina": "Nombre Estación de Servicio",
   "url_base": "https://www.moeve.es/es/alta?paramapresenter=",
-  "codigo_qr": "QR"
+  "codigo_qr": "Nº QR Comercial punto de venta: "
 }

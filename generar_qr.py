@@ -31,18 +31,20 @@ def cargar_config(base_path):
         with open(config_path, 'r', encoding='utf-8') as f:
             config = json.load(f)
             return {
-                "output_folder": config.get("output_folder", "qr_generados"),
-                "csv_separator": config.get("csv_separator", ";"),
-                "url_column": config.get("url_column", "url"),
-                "codigo_column": config.get("codigo_column", "codigo")
+                "output_folder": config.get("output_folder"),
+                "cod_oficina": config.get("cod_oficina"),
+                "nombre_oficina": config.get("nombre_oficina"),
+                "url_base": config.get("url_base"),
+                "codigo_qr": config.get("codigo_qr")
             }
     except FileNotFoundError:
         print("❌ No se encontró el archivo config.json. Se usarán valores por defecto.")
         return {
             "output_folder": "qr_generados",
-            "csv_separator": ";",
-            "url_column": "url",
-            "codigo_column": "codigo"
+            "cod_oficina": "Nº concesión (Código de 5 dígitos. Ejemplo: 07414)",
+            "nombre_oficina": "Nombre Estación de Servicio",
+            "url_base": "https://www.moeve.es/es/alta?paramapresenter=",
+            "codigo_qr": "QR"
         }
     except Exception as e:
         print(f"❌ Error al leer config.json: {e}")
