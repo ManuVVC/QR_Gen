@@ -32,6 +32,7 @@ def cargar_config(base_path):
         with open(config_path, 'r', encoding='utf-8') as f:
             config = json.load(f)
             return {
+                "fuente": config.get("fuente", "ARLRDBD.TTF"),
                 "ancho": config.get("ancho", 300),
                 "alto": config.get("alto", 300),
                 "output_folder": config.get("output_folder"),
@@ -43,6 +44,7 @@ def cargar_config(base_path):
     except FileNotFoundError:
         print("❌ No se encontró el archivo config.json. Se usarán valores por defecto.")
         return {
+            "fuente": "ARLRDBD.TTF",
             "ancho": "165",
              "alto": "188",
             "output_folder": "qr_generados",
@@ -61,49 +63,55 @@ def generar_qr_con_texto(url, codigo, output_path):
     base_path = os.path.dirname(sys.executable if getattr(sys, 'frozen', False) else __file__)
     config = cargar_config(base_path)
 
-    # Generar QR sin bordes blancos
+    # --- Colores CMYK para preimpresión ---
+    # Blanco se define como ausencia de tinta (0 en todos los canales).
+    # Negro se define como 100% de tinta negra (K) y 0 en el resto.
+    # En Pillow, los valores van de 0 a 255.
+    cmyk_white = (0, 0, 0, 0)
+    cmyk_black = (0, 0, 0, 255)
+
+    # Generar QR. La librería lo crea en modo 'RGB', así que lo convertimos a 'CMYK'.
     qr = qrcode.QRCode(
         version=1,
         error_correction=qrcode.constants.ERROR_CORRECT_L,
         box_size=4,
-        border=1  # reducir margen blanco
+        border=1
     )
     qr.add_data(url)
     qr.make(fit=True)
-    qr_img = qr.make_image(fill_color="black", back_color="white").convert('RGB')
+    qr_img = qr.make_image(fill_color="black", back_color="white").convert('CMYK')
 
-    # Redimensionar QR (usar el nuevo método para Pillow>=10)
-    qr_resized = qr_img.resize((config["ancho"], config["ancho"]), Image.Resampling.LANCZOS)
+    # Redimensionar QR usando NEAREST para mantener bordes nítidos y sin tonos intermedios.
+    qr_resized = qr_img.resize((config["ancho"], config["ancho"]), Image.Resampling.NEAREST)
 
-    # Crear imagen final (300x300)
-    final_img = Image.new('RGB', (config["ancho"], config["alto"]), color='white')
+    # Crear la imagen final en modo CMYK usando blanco CMYK.
+    final_img = Image.new('CMYK', (config["ancho"], config["alto"]), color=cmyk_white)
     final_img.paste(qr_resized, (0, 0))
 
-    # Fuente
-    font_size = 16
+    # Cargar fuente
+    font_size = 15
     try:
-        font = ImageFont.truetype("calibri.ttf", font_size)
-    except:
+        font = ImageFont.truetype(config["fuente"], font_size)
+    except IOError:
         font = ImageFont.load_default()
 
-    # Dibujar texto y subrayado
+    # Preparar para dibujar el texto
     draw = ImageDraw.Draw(final_img)
-    bbox = draw.textbbox((0, 0), codigo, font=font)
-    text_width = bbox[2] - bbox[0]
-    text_height = bbox[3] - bbox[1]
+    try:
+        bbox = draw.textbbox((0, 0), codigo, font=font)
+        text_width = bbox[2] - bbox[0]
+    except AttributeError:
+        text_width, _ = draw.textsize(codigo, font=font)
 
     text_x = (config["ancho"] - text_width) // 2
-    text_y = (config["ancho"] + (text_height // 2))
+    text_y = config["ancho"]   # Margen superior para el texto
 
-    draw.text((text_x, text_y), codigo, font=font, fill='black')
+    # Dibujar el texto usando el color negro CMYK.
+    draw.text((text_x, text_y), codigo, font=font, fill=cmyk_black)
 
-    # # Línea debajo del texto
-    # underline_y = text_y + text_height + 2
-    # draw.line((text_x, underline_y, text_x + text_width, underline_y), fill="black", width=1)
-
-    # Guardar
-    final_img.save(output_path)
-
+    # Guardar la imagen final. Al estar en modo CMYK, Pillow la guardará
+    # correctamente en formato TIFF.
+    final_img.save(output_path, format='TIFF', compression='tiff_lzw')
 def main():
     from tkinter import Tk
     from tkinter.filedialog import askopenfilename
@@ -159,7 +167,7 @@ def main():
             
 
             try:
-                output_path = os.path.join(oficina_folder, f"{codigo}.png")
+                output_path = os.path.join(oficina_folder, f"{codigo}.tif")
                 generar_qr_con_texto(url, codigo, output_path)
                 logging.info(f"✅ QR generado: {output_path}")
             except Exception as qr_error:

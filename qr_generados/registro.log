@@ -1514,3 +1514,678 @@ UnboundLocalError: cannot access local variable 'count' where it is not associat
 2025-07-24 11:37:40,060 - INFO - ✅ QR generado: g:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.png
 2025-07-24 11:37:40,067 - INFO - ✅ QR generado: g:\Proyectos\QR_Gen\qr_generados\31111 - Carolina\9034770003389410.png
 2025-07-24 11:37:40,067 - WARNING - ⚠️ Revisar el log, se encontraron 6 errores al generar códigos QR.
+2025-07-30 12:06:55,520 - INFO - 🟢 Inicio del programa
+2025-07-30 12:06:58,528 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:06:59,149 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:06:59,162 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:06:59,175 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:06:59,189 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:06:59,201 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:06:59,214 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:06:59,228 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:06:59,241 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:06:59,254 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:06:59,266 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:06:59,279 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:06:59,293 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:06:59,305 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:06:59,318 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:06:59,330 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:06:59,343 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:06:59,357 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:06:59,370 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:06:59,383 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:06:59,397 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:06:59,410 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:06:59,425 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:06:59,439 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:06:59,454 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:06:59,467 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:06:59,481 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:06:59,495 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:06:59,509 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:06:59,522 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:06:59,536 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:06:59,549 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:06:59,562 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:06:59,576 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:06:59,588 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:06:59,600 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:06:59,613 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:06:59,631 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:06:59,647 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:06:59,662 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:06:59,677 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:06:59,693 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:06:59,712 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:06:59,731 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:06:59,752 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:06:59,776 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:06:59,797 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:06:59,810 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:06:59,824 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:06:59,838 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:06:59,856 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:06:59,870 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:06:59,882 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:06:59,895 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:06:59,908 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:06:59,922 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:06:59,934 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:06:59,946 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:06:59,959 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:06:59,972 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:06:59,986 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:06:59,998 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:07:00,014 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:07:00,027 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:07:00,041 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:07:00,053 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:07:00,064 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:07:00,080 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:07:00,094 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:07:00,108 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:07:00,121 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:07:00,133 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:07:00,145 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:07:00,145 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:36:55,186 - INFO - 🟢 Inicio del programa
+2025-07-30 12:36:58,452 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:36:58,953 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:36:58,964 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:36:58,977 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:36:58,990 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:36:59,002 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:36:59,014 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:36:59,029 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:36:59,043 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:36:59,057 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:36:59,069 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:36:59,083 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:36:59,098 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:36:59,111 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:36:59,123 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:36:59,134 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:36:59,147 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:36:59,159 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:36:59,171 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:36:59,183 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:36:59,196 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:36:59,208 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:36:59,220 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:36:59,236 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:36:59,249 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:36:59,261 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:36:59,274 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:36:59,286 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:36:59,298 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:36:59,311 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:36:59,325 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:36:59,340 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:36:59,353 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:36:59,366 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:36:59,379 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:36:59,392 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:36:59,403 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:36:59,416 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:36:59,430 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:36:59,444 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:36:59,458 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:36:59,469 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:36:59,483 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:36:59,496 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:36:59,509 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:36:59,521 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:36:59,533 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:36:59,548 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:36:59,561 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:36:59,575 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:36:59,586 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:36:59,599 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:36:59,611 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:36:59,623 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:36:59,635 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:36:59,647 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:36:59,659 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:36:59,671 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:36:59,683 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:36:59,696 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:36:59,708 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:36:59,720 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:36:59,731 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:36:59,742 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:36:59,753 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:36:59,764 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:36:59,776 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:36:59,788 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:36:59,800 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:36:59,813 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:36:59,826 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:36:59,839 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:36:59,850 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:36:59,850 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:39:03,405 - INFO - 🟢 Inicio del programa
+2025-07-30 12:39:07,324 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:39:07,888 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:39:07,901 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:39:07,913 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:39:07,926 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:39:07,939 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:39:07,952 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:39:07,966 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:39:07,977 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:39:07,990 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:39:08,002 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:39:08,016 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:39:08,028 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:39:08,042 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:39:08,055 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:39:08,068 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:39:08,082 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:39:08,093 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:39:08,106 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:39:08,118 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:39:08,132 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:39:08,145 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:39:08,158 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:39:08,172 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:39:08,185 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:39:08,199 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:39:08,211 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:39:08,224 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:39:08,239 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:39:08,253 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:39:08,268 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:39:08,285 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:39:08,300 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:39:08,315 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:39:08,326 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:39:08,341 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:39:08,355 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:39:08,372 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:39:08,387 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:39:08,402 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:39:08,415 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:39:08,429 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:39:08,442 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:39:08,455 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:39:08,468 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:39:08,482 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:39:08,494 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:39:08,507 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:39:08,521 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:39:08,534 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:39:08,547 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:39:08,559 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:39:08,572 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:39:08,586 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:39:08,599 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:39:08,611 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:39:08,624 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:39:08,636 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:39:08,648 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:39:08,660 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:39:08,672 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:39:08,684 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:39:08,696 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:39:08,706 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:39:08,717 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:39:08,729 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:39:08,739 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:39:08,752 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:39:08,765 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:39:08,777 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:39:08,790 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:39:08,801 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:39:08,813 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:39:08,813 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:40:28,484 - INFO - 🟢 Inicio del programa
+2025-07-30 12:40:31,619 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:40:32,039 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:40:32,053 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:40:32,066 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:40:32,077 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:40:32,090 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:40:32,104 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:40:32,121 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:40:32,134 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:40:32,145 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:40:32,159 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:40:32,172 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:40:32,186 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:40:32,200 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:40:32,214 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:40:32,228 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:40:32,243 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:40:32,259 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:40:32,273 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:40:32,288 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:40:32,304 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:40:32,319 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:40:32,334 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:40:32,351 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:40:32,369 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:40:32,386 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:40:32,401 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:40:32,417 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:40:32,432 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:40:32,445 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:40:32,458 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:40:32,472 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:40:32,485 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:40:32,500 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:40:32,511 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:40:32,524 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:40:32,538 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:40:32,553 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:40:32,566 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:40:32,579 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:40:32,592 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:40:32,605 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:40:32,619 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:40:32,632 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:40:32,644 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:40:32,657 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:40:32,670 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:40:32,684 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:40:32,697 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:40:32,711 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:40:32,724 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:40:32,738 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:40:32,751 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:40:32,765 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:40:32,778 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:40:32,792 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:40:32,805 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:40:32,819 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:40:32,833 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:40:32,846 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:40:32,859 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:40:32,872 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:40:32,884 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:40:32,895 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:40:32,907 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:40:32,922 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:40:32,935 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:40:32,948 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:40:32,960 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:40:32,973 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:40:32,986 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:40:33,000 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:40:33,011 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:40:33,011 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:41:02,977 - INFO - 🟢 Inicio del programa
+2025-07-30 12:41:05,746 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:41:06,196 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:41:06,210 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:41:06,222 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:41:06,235 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:41:06,248 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:41:06,259 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:41:06,271 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:41:06,288 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:41:06,303 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:41:06,316 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:41:06,327 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:41:06,341 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:41:06,353 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:41:06,366 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:41:06,379 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:41:06,392 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:41:06,406 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:41:06,422 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:41:06,436 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:41:06,450 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:41:06,464 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:41:06,478 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:41:06,495 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:41:06,509 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:41:06,523 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:41:06,536 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:41:06,551 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:41:06,564 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:41:06,577 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:41:06,592 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:41:06,605 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:41:06,619 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:41:06,635 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:41:06,649 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:41:06,660 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:41:06,674 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:41:06,687 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:41:06,700 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:41:06,714 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:41:06,727 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:41:06,740 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:41:06,753 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:41:06,767 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:41:06,784 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:41:06,800 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:41:06,813 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:41:06,827 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:41:06,845 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:41:06,863 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:41:06,879 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:41:06,897 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:41:06,914 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:41:06,928 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:41:06,943 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:41:06,958 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:41:06,972 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:41:06,985 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:41:06,999 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:41:07,014 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:41:07,026 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:41:07,039 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:41:07,051 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:41:07,062 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:41:07,080 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:41:07,091 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:41:07,103 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:41:07,116 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:41:07,128 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:41:07,141 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:41:07,155 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:41:07,168 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:41:07,182 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:41:07,182 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:41:32,218 - INFO - 🟢 Inicio del programa
+2025-07-30 12:41:34,996 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:41:35,489 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:41:35,502 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:41:35,514 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:41:35,528 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:41:35,544 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:41:35,557 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:41:35,571 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:41:35,584 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:41:35,597 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:41:35,611 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:41:35,625 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:41:35,639 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:41:35,654 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:41:35,669 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:41:35,681 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:41:35,695 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:41:35,710 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:41:35,725 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:41:35,739 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:41:35,751 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:41:35,764 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:41:35,778 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:41:35,795 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:41:35,809 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:41:35,823 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:41:35,838 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:41:35,851 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:41:35,864 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:41:35,877 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:41:35,892 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:41:35,907 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:41:35,921 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:41:35,935 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:41:35,947 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:41:35,961 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:41:35,975 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:41:35,990 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:41:36,005 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:41:36,020 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:41:36,032 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:41:36,046 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:41:36,062 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:41:36,079 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:41:36,095 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:41:36,108 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:41:36,123 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:41:36,138 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:41:36,152 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:41:36,166 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:41:36,187 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:41:36,211 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:41:36,235 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:41:36,256 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:41:36,271 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:41:36,287 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:41:36,306 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:41:36,322 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:41:36,337 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:41:36,352 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:41:36,365 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:41:36,380 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:41:36,393 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:41:36,406 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:41:36,417 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:41:36,429 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:41:36,443 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:41:36,457 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:41:36,473 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:41:36,487 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:41:36,503 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:41:36,515 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:41:36,528 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:41:36,529 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:42:18,068 - INFO - 🟢 Inicio del programa
+2025-07-30 12:42:44,043 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:42:44,507 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:42:44,521 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:42:44,534 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:42:44,547 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:42:44,561 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:42:44,575 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:42:44,589 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:42:44,604 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:42:44,616 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:42:44,629 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:42:44,643 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:42:44,656 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:42:44,669 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:42:44,681 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:42:44,695 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:42:44,708 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:42:44,720 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:42:44,733 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:42:44,745 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:42:44,758 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:42:44,771 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:42:44,785 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:42:44,797 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:42:44,811 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:42:44,824 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:42:44,837 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:42:44,849 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:42:44,862 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:42:44,875 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:42:44,888 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:42:44,902 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:42:44,915 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:42:44,928 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:42:44,942 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:42:44,956 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:42:44,970 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:42:44,982 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:42:44,995 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:42:45,009 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:42:45,022 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:42:45,036 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:42:45,050 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:42:45,063 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:42:45,077 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:42:45,092 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:42:45,106 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:42:45,122 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:42:45,136 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:42:45,148 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:42:45,161 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:42:45,176 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:42:45,190 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:42:45,203 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:42:45,215 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:42:45,229 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:42:45,243 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:42:45,256 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:42:45,270 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:42:45,283 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:42:45,296 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:42:45,309 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:42:45,322 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:42:45,334 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:42:45,346 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:42:45,360 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:42:45,374 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:42:45,388 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:42:45,402 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:42:45,413 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:42:45,427 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:42:45,440 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:42:45,453 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:42:45,454 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:43:11,156 - INFO - 🟢 Inicio del programa
+2025-07-30 12:43:13,918 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:43:14,365 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:43:14,378 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:43:14,391 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:43:14,406 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:43:14,420 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:43:14,434 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:43:14,448 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:43:14,463 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:43:14,479 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:43:14,496 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:43:14,512 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:43:14,529 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:43:14,543 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:43:14,558 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:43:14,573 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:43:14,588 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:43:14,601 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:43:14,617 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:43:14,630 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:43:14,643 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:43:14,657 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:43:14,669 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:43:14,686 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:43:14,699 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:43:14,714 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:43:14,728 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:43:14,742 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:43:14,759 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:43:14,775 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:43:14,790 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:43:14,805 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:43:14,818 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:43:14,833 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:43:14,847 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:43:14,861 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:43:14,875 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:43:14,890 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:43:14,904 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:43:14,916 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:43:14,929 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:43:14,944 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:43:14,964 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:43:14,978 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:43:14,992 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:43:15,006 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:43:15,023 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:43:15,040 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:43:15,055 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:43:15,068 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:43:15,086 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:43:15,103 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:43:15,122 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:43:15,139 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:43:15,155 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:43:15,172 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:43:15,188 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:43:15,203 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:43:15,217 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:43:15,231 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:43:15,246 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:43:15,262 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:43:15,275 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:43:15,294 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:43:15,310 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:43:15,324 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:43:15,335 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:43:15,349 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:43:15,364 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:43:15,379 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:43:15,393 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:43:15,408 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:43:15,423 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:43:15,423 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.
+2025-07-30 12:43:52,230 - INFO - 🟢 Inicio del programa
+2025-07-30 12:43:55,339 - INFO - 📄 Archivo seleccionado: G:/Downloads/20250528 Solicitud pegatinas faltantes de QR empleado CEDIPSA.xlsx
+2025-07-30 12:43:55,810 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\Test - Test\Test.tif
+2025-07-30 12:43:55,829 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31542 - Petrocar\9034770002529112.tif
+2025-07-30 12:43:55,843 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\11644 - FOMBELLIDA\9034770004593314.tif
+2025-07-30 12:43:55,857 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31190 - E.S LOS CANAPES\9034770004574017.tif
+2025-07-30 12:43:55,870 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19474 - La Pobla de Vallbona\9034770004181912.tif
+2025-07-30 12:43:55,885 - ERROR - ❌ Error al generar QR para '9034770001606614': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\16445 - Punt del Montseny \\9034770001606614.tif'
+2025-07-30 12:43:55,900 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17743 - PONTEAREAS\9034770004358510.tif
+2025-07-30 12:43:55,912 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17262 - Alberique II\9034770004580113.tif
+2025-07-30 12:43:55,926 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\33015 - E.S.  ADANERO  I\9034770004391610.tif
+2025-07-30 12:43:55,939 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002295417.tif
+2025-07-30 12:43:55,952 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001743615.tif
+2025-07-30 12:43:55,968 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770004460415.tif
+2025-07-30 12:43:55,982 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770000868215.tif
+2025-07-30 12:43:55,994 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003139515.tif
+2025-07-30 12:43:56,009 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001363810.tif
+2025-07-30 12:43:56,023 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770003563219.tif
+2025-07-30 12:43:56,036 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770002769411.tif
+2025-07-30 12:43:56,050 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16600 - El oasis\9034770001954816.tif
+2025-07-30 12:43:56,062 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19121 - E.S. IBARBURU\9034770004579313.tif
+2025-07-30 12:43:56,075 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000501113.tif
+2025-07-30 12:43:56,088 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770000709419.tif
+2025-07-30 12:43:56,101 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\12281 - Petropenedés\9034770002879517.tif
+2025-07-30 12:43:56,119 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\00566 - PARALELO\9034770002611217.tif
+2025-07-30 12:43:56,134 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:43:56,149 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001803419.tif
+2025-07-30 12:43:56,161 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770000500412.tif
+2025-07-30 12:43:56,174 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770003415311.tif
+2025-07-30 12:43:56,187 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\19638 - TORRESBLANCAS\9034770001982718.tif
+2025-07-30 12:43:56,201 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001878619.tif
+2025-07-30 12:43:56,215 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34510 - BUENAVISTA\9034770004591813.tif
+2025-07-30 12:43:56,227 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04503 - El Potro Blanco\9034770004370119.tif
+2025-07-30 12:43:56,242 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001969111.tif
+2025-07-30 12:43:56,255 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003624417.tif
+2025-07-30 12:43:56,269 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770002373610.tif
+2025-07-30 12:43:56,283 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770003246112.tif
+2025-07-30 12:43:56,295 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770000512011.tif
+2025-07-30 12:43:56,309 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004369616.tif
+2025-07-30 12:43:56,322 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004140710.tif
+2025-07-30 12:43:56,336 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770004365119.tif
+2025-07-30 12:43:56,349 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - BOADILLA\9034770001599819.tif
+2025-07-30 12:43:56,362 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34483 - Hnos. Gallardo\9034770003802211.tif
+2025-07-30 12:43:56,375 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15277 - Santa Tecla\9034770004194113.tif
+2025-07-30 12:43:56,388 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17018 - trujillo2\9034770004239918.tif
+2025-07-30 12:43:56,403 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05630 - POLA DE LENA\9034770004584818.tif
+2025-07-30 12:43:56,418 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13072 - Cala millor\9043770004573910.tif
+2025-07-30 12:43:56,430 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\04960 - Pujana\9034770000512912.tif
+2025-07-30 12:43:56,442 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\05445 - Babel\9034770004579412.tif
+2025-07-30 12:43:56,455 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑÓN\9034770004428511.tif
+2025-07-30 12:43:56,468 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\77226 - MOEVE EL PEÑON\9034770004574314.tif
+2025-07-30 12:43:56,480 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\01356 - VENTAS\9034770002531019.tif
+2025-07-30 12:43:56,493 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 y 31717 - Ameyugo I y Ameyugo II\9034770003935813.tif
+2025-07-30 12:43:56,509 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - AMEYUGO II\9034770003142410.tif
+2025-07-30 12:43:56,531 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17465 - CASABERMEJA\9034770003324414.tif
+2025-07-30 12:43:56,549 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31716 - AMEYUGO I\9034770002157310.tif
+2025-07-30 12:43:56,572 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003337416.tif
+2025-07-30 12:43:56,586 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770004195318.tif
+2025-07-30 12:43:56,600 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15089 - LA PAUSA\9034770003547113.tif
+2025-07-30 12:43:56,616 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\34288 - PUENTE LA REINA\9034770004398714.tif
+2025-07-30 12:43:56,636 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\31717 - Ameyugo II\9034770000841014.tif
+2025-07-30 12:43:56,652 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\13305 - SAN GINES\9034770004591615.tif
+2025-07-30 12:43:56,667 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\15947 - MOEVE BOADILLA\9034770004369616.tif
+2025-07-30 12:43:56,682 - ERROR - ❌ Error al generar QR para '9034770003879714': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003879714.tif'
+2025-07-30 12:43:56,693 - ERROR - ❌ Error al generar QR para '9034770003540217': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31770 - Villalba II \\9034770003540217.tif'
+2025-07-30 12:43:56,705 - ERROR - ❌ Error al generar QR para '9034770004591219': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770004591219.tif'
+2025-07-30 12:43:56,718 - ERROR - ❌ Error al generar QR para '9034770001443919': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\9034770001443919.tif'
+2025-07-30 12:43:56,731 - ERROR - ❌ Error al generar QR para 'NO ESTA DADA DE ALTA ': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31102 - Villalba I \\NO ESTA DADA DE ALTA .tif'
+2025-07-30 12:43:56,747 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\16009 - ES CASTELLDEFELS\9034770004599519.tif
+2025-07-30 12:43:56,761 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17642 - Pau Vallecas\9034770004586110.tif
+2025-07-30 12:43:56,775 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\1310 - OCAÑA\9034770004574116.tif
+2025-07-30 12:43:56,789 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\17212 - Salvador Maella\9034770004586516.tif
+2025-07-30 12:43:56,804 - INFO - ✅ QR generado: G:\Proyectos\QR_Gen\qr_generados\02579 - Malgrat Montaña\9034770004253117.tif
+2025-07-30 12:43:56,818 - ERROR - ❌ Error al generar QR para '9034770003389410': [Errno 2] No such file or directory: 'G:\\Proyectos\\QR_Gen\\qr_generados\\31111 - Carolina \\9034770003389410.tif'
+2025-07-30 12:43:56,818 - WARNING - ⚠️ Revisar el log, se encontraron 7 errores al generar códigos QR.

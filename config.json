@@ -1,5 +1,6 @@
 {
-  "ancho": 168,
+  "fuente": "ARLRDBD.TTF",
+  "ancho": 165,
   "alto": 188,
   "output_folder": "qr_generados",
   "cod_oficina": "Nº concesión (Código de 5 dígitos. Ejemplo: 07414)",
